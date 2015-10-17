@@ -1,0 +1,50 @@
+*{
+  background-color: #09162E;
+}
+
+#sidebar{
+  position: fixed;
+  text-align: center;
+  border: 5px solid #2F384C;
+  image-orientation: 90deg;
+  background-color: #15233D;
+  color: #496095;
+  margin-left: 16px;
+  margin-right: 16px;
+  margin-top: 16px;
+  width: 320px;
+  height: 320px;
+  border-radius: 10px;
+
+}
+
+.space{
+  color: ;
+}
+
+
+#content{
+  margin: 0 0px 40px 280px;
+  text-align: center;
+}
+
+head{
+  text-align: center;
+}
+
+p{
+  color: white;
+  font-family: Helvetica, serif;
+  background-color: #15233D;
+
+
+}
+a{
+  color: green;
+}
+
+
+
+p2{
+  color: blue;
+}
